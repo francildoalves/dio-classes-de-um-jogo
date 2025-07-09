@@ -1,6 +1,8 @@
+<!--
 <p align="center">
   <img src="https://raw.githubusercontent.com/francildoalves/dio-classes-de-um-jogo/main/docs/banner-dio-classes-jogo.png" alt="Banner do Projeto DIO - Classes de um Jogo" style="max-width: 100%;">
 </p>
+-->
 
 # 🦸‍♂️ DIO - Classes de um Jogo
 
