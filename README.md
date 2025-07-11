@@ -85,12 +85,13 @@ node src/heroi.test.js
 ```
 
 Isso irá rodar os exemplos de ataque com diferentes tipos de heróis e exibir o resultado no console.
+Você pode alterar as entradas para testar diferentes saídas. 
 
 ---
 
 ## 📖 Documentação
 
-- [Documentação da DIO sobre o desafio](https://www.dio.me/bootcamp/savegnago-logica-de-programacao)
+- [Página da DIO sobre o desafio](https://www.dio.me/bootcamp/savegnago-logica-de-programacao)
 - [Classes e Objetos em JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Classes)
 
 ---
