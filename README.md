@@ -92,6 +92,7 @@ Você pode alterar as entradas para testar diferentes saídas.
 ## 📖 Documentação
 
 - [Página da DIO sobre o desafio](https://www.dio.me/bootcamp/savegnago-logica-de-programacao)
+- [Detalhes sobre o desafio](docs/Desafio,md)
 - [Classes e Objetos em JavaScript - MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Classes)
 
 ---
